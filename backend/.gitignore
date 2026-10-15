@@ -1,3 +1,5 @@
 node_modules/
 .env
 postman/
+postman/environments
+postman/globals
